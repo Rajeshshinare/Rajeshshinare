@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi ❤️, I'm Rajesh Shinare</h1>
-<h3 align="center">A passionate Cyber Security Professional</h3>
-
-<img align="right" alt="hacking" width="400" src="https://c8.alamy.com/comp/2kn388e/cyber-security-animated-word-cloud-design-animation-typography-seamless-loop-2kn388e.jpg">
+<h3 align="center">A passionate Cyber Security Ethusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshshinare&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshshinare" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshshinare" alt="rajeshshinare" /></a> </p>
 
 - 🌱 I’m currently learning **Cyber Security Course**
 
@@ -12,6 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rjesh shinare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rjesh shinare" height="30" width="40" /></a>
+<a href="https://instagram.com/_raj.1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_raj.1702" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
