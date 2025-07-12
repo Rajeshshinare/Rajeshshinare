@@ -1,7 +1,7 @@
 <h1 align="center">Hi ❤️, I'm Rajesh Shinare</h1>
 <h3 align="center">A passionate Cyber Security Professional</h3>
 
-<img align="right" width="400"src="https://stories.wf.com/wp-content/uploads/CyberSecurityGenTips_Story_1440x580.gif">
+<img align="right" alt="hacking" width="400"src="https://stories.wf.com/wp-content/uploads/CyberSecurityGenTips_Story_1440x580.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshshinare&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshshinare" /> </p>
 
