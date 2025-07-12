@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshshinare&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshshinare" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshshinare" alt="rajeshshinare" /></a> </p>
 
 - 🌱 I’m currently learning **Cyber Security Course**
 
@@ -24,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshshinare&show_icons=true&locale=en" alt="rajeshshinare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshshinare&" alt="rajeshshinare" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshshinare" alt="rajeshshinare" /></a> </p>
