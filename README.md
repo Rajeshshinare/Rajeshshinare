@@ -1,7 +1,7 @@
 <h1 align="center">Hi ❤️, I'm Rajesh Shinare</h1>
 <h3 align="center">A passionate Cyber Security Professional</h3>
 
-<img align="right" alt="hacking" width="400"src="https://cdn.tech.eu/uploads/2023/12/provenrun-374.gif">
+<img align="right" alt="hacking" width="400" src="https://c8.alamy.com/comp/2kn388e/cyber-security-animated-word-cloud-design-animation-typography-seamless-loop-2kn388e.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshshinare&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshshinare" /> </p>
 
