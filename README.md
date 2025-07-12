@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajeshshinare/Rajeshshinare/blob/main/Your%20paragraph%20text.png)
+
 <h1 align="center">Hi ❤️, I'm Rajesh Shinare</h1>
 <h3 align="center">A passionate Cyber Security Professional</h3>
 
